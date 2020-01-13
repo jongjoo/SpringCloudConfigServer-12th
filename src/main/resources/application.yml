@@ -3,4 +3,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jongjoo/SpringCloudConfig-12th
+          uri: https://github.com/jongjoo/MsMall-CloudConfig
